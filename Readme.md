@@ -1,6 +1,4 @@
 ## Digital Image Processing Lab
-- **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
-- **Computer Science & Engineering, University of Rajshahi**
 - **Code: `CSE-4181`**
 
 ### Lab Tasks
